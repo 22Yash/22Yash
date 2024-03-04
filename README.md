@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @22Yash
-- 👀 I’m interested in Feontend Web Developer 
+- 👀 I’m interested in Frontend Web Developer 
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
