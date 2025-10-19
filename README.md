@@ -1,3 +1,6 @@
+[![An image of @22yash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/22yash)](https://holopin.io/@22yash)
+
+
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
